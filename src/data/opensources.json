@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Demo Progressive Web App",
+    "url": "https://github.com/gokulkrishh/demo-progressive-web-app",
+    "stars": 500,
+    "forks": 145,
+    "desc": "🎉 A demo for progressive web application with features like offline, push notifications, background sync etc,",
+    "languages": "html, css, javascript, pwa"
+  },
+  {
+    "name": "Awesome Meta and Manifest",
+    "url": "https://github.com/gokulkrishh/awesome-meta-and-manifest",
+    "stars": 75,
+    "forks": 10,
+    "desc": "⚡ Awesome collection of meta tags & manifest properties available for building PWAs.",
+    "languages": "html, metatags"
+  },
+  {
+    "name": "Anonymous Web Chat",
+    "url": "https://github.com/gokulkrishh/anonymous-web",
+    "stars": 25,
+    "forks": 9,
+    "desc": "💬 A PreactJS powered progressive web (chat) application",
+    "languages": "html, css, javascript, preact"
+  },
+  {
+    "name": "React Hacker News",
+    "url": "https://github.com/gokulkrishh/React-hacker-news",
+    "stars": 100,
+    "forks": 30,
+    "desc": "🔑 Hacker News site using React.js (fully responsive site)",
+    "languages": "html, css, javascript, react"
+  },
+  {
+    "name": "Tensorflow Find Object",
+    "url": "https://github.com/gokulkrishh/tensorflow-find-object",
+    "stars": 7,
+    "forks": 0,
+    "desc": "📸 A simple application to demonstrate TensorflowJS using mobile net model to predict objects via camera API",
+    "languages": "html, css, javascript, react, pwa"
+  },
+  {
+    "name": "Introduction to GraphQL & its concepts",
+    "url": "https://github.com/gokulkrishh/introduction-to-graphql",
+    "stars": 4,
+    "forks": 1,
+    "desc": "📉 📊 Introduction to GraphQL & its concepts, limitations etc. ",
+    "languages": "node, express"
+  },
+  {
+    "name": "Create React Component",
+    "url": "https://github.com/gokulkrishh/create-react-component",
+    "stars": 15,
+    "forks": 5,
+    "desc": "Create react component with create-react-component using webpack",
+    "languages": "react, webpack"
+  },
+  {
+    "name": "Barcode Scanner",
+    "url": "https://github.com/code-kotis/barcode-scanner",
+    "stars": 445,
+    "forks": 120,
+    "desc": "📠 A simple, fast and useful progressive web application ",
+    "languages": "html, css, javascript, webworkers, pwa"
+  },
+  {
+    "name": "PWA Codelabs",
+    "url": "https://github.com/code-kotis/pwa-codelabs",
+    "stars": 30,
+    "forks": 19,
+    "desc": "Learn how to build your first progressive web application",
+    "languages": "html, css, javascript, pwa"
+  },
+  {
+    "name": "React Floating Label",
+    "url": "https://github.com/code-kotis/react-floating-label",
+    "stars": 35,
+    "forks": 20,
+    "desc": "A material design styled floating label input. ",
+    "languages": "html, css, javascript, react, material design"
+  },
+  {
+    "name": "PWA Tips, A bi-montly newsletter",
+    "url": "https://pwa.tips/",
+    "stars": 7,
+    "forks": 2,
+    "desc": "Read about latest PWA's, Browser updates, new API's and its improvements in your inbox",
+    "languages": "html, css, javascript, jekyll"
+  },
+  {
+    "name": "Lighthouse",
+    "url": "https://github.com/GoogleChrome/lighthouse",
+    "stars": 14000,
+    "forks": 4400,
+    "contribution": true,
+    "desc": "Auditing, performance metrics, and best practices for Progressive Web Apps ",
+    "languages": "html, css, javascript, jekyll"
+  },
+  {
+    "name": "Frontend Developer Interview Preparation",
+    "url": "https://github.com/FuelFrontend/Frontend-Developer-Interview-Preparation",
+    "stars": 40,
+    "forks": 17,
+    "contribution": true,
+    "desc": "Things you need to know to crack that frontend developer job.",
+    "languages": "html, css, javascript"
+  },
+  {
+    "name": "Generator SMACSS",
+    "url": "https://github.com/FuelFrontend/generator-smacss",
+    "stars": 58,
+    "forks": 11,
+    "contribution": true,
+    "desc": "Perfectionist generator that scaffolds out different types of Frontend apps.",
+    "languages": "html, css, angular, react, yeoman"
+  },
+  {
+    "name": "Preact Boilerplate",
+    "url": "https://github.com/developit/preact-boilerplate",
+    "stars": 835,
+    "forks": 172,
+    "contribution": true,
+    "desc": "🎸 Ready-to-rock Preact starter project, powered by Webpack.",
+    "languages": "preact, cli"
+  },
+  {
+    "name": "How To Setup Webpack",
+    "url": "https://github.com/gokulkrishh/how-to-setup-webpack-2",
+    "stars": 110,
+    "forks": 10,
+    "desc": "🔧 ⚙ Tutorial to setup webpack from scratch.",
+    "languages": "webpack"
+  },
+  {
+    "name": "Fuel Price",
+    "url": "https://github.com/gokulkrishh/fuel-price",
+    "stars": 15,
+    "forks": 2,
+    "desc": "⛽ Check fuel prices daily in most of the states in India",
+    "languages": "html, css, javascript, pwa, preact"
+  },
+  {
+    "name": "React Google Maps",
+    "url": "https://github.com/gokulkrishh/React-google-maps",
+    "stars": 40,
+    "forks": 18,
+    "desc": "A simple google maps application using React.js",
+    "languages": "html, css, javascript, react"
+  },
+  {
+    "name": "React Material Snackbar",
+    "url": "https://github.com/gokulkrishh/react-material-snackbar",
+    "stars": 9,
+    "forks": 6,
+    "desc": "A material design based snackbar react component (2KB gzipped) ",
+    "languages": "html, css, javascript, react"
+  },
+  {
+    "name": "Is Domain Name Available",
+    "url": "https://github.com/gokulkrishh/is-domain-available",
+    "stars": 6,
+    "forks": 0,
+    "desc": "Check domain availability via CLI",
+    "languages": "node, npm, cli"
+  },
+  {
+    "name": "Dotfiles",
+    "url": "https://github.com/gokulkrishh/dotfiles",
+    "stars": 21,
+    "forks": 1,
+    "desc": "My dotfiles (oh my zsh, brew, git, nvm, vscode settings) for your OSX",
+    "languages": "shell"
+  },
+  {
+    "name": "Set Default Browser",
+    "url": "https://github.com/gokulkrishh/set-default-browser",
+    "stars": 2,
+    "forks": 2,
+    "desc": "Set a browser as default browser via cli",
+    "languages": "node, npm, cli"
+  },
+  {
+    "name": "Dev Hints",
+    "url": "https://github.com/rstacruz/cheatsheets",
+    "stars": 4270,
+    "forks": 834,
+    "contribution": true,
+    "desc": "TL;DR for developer documentation - a ridiculous collection of cheatsheets",
+    "languages": "cheetsheets"
+  },
+  {
+    "name": "Frontend Cheat Sheets",
+    "url": "https://github.com/logeshpaul/Frontend-Cheat-Sheets",
+    "stars": 415,
+    "forks": 85,
+    "contribution": true,
+    "desc": "Collection of cheat sheets(HTML, CSS, JS, Git, Gulp, etc.,) for your frontend development needs & reference",
+    "languages": "html, css, javascript, git, gulp, accessibility"
+  }
+]
