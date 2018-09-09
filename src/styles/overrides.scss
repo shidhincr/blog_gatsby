@@ -1,7 +1,7 @@
-pre[class*="language-"] {
-  background-color: #f7f7f7;
-}
-
-.token.selector, .token.attr-name, .token.string, .token.char, .token.builtin, .token.url, .token.inserted {
-  color: #d81b60;
+code.language-text {
+  background-color: transparent !important;
+  color: #212121 !important;
+  font-weight: 500 !important;
+  font-family: inherit !important;
+  text-shadow: none !important;
 }

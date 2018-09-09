@@ -37,6 +37,19 @@ module.exports = {
       },
     },
     `gatsby-plugin-offline`,
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: "Gokulakrishnan Kalaikovan",
+        short_name: "Gokul - Blog",
+        start_url: "/",
+        background_color: "#212121",
+        theme_color: "#212121",
+        display: "minimal-ui",
+        icon: "images/icons/android-chrome-512x512.png", // This path is relative to the root of the site.
+      },
+    },
+    `gatsby-plugin-postcss-sass`,
     `gatsby-plugin-sass`,
     {
       resolve: `gatsby-plugin-google-fonts`,
@@ -50,5 +63,6 @@ module.exports = {
         trackingId: `UA-54513398-1`,
       },
     },
+    `gatsby-plugin-feed`
   ],
 };

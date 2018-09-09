@@ -8,7 +8,7 @@ title: "How To Setup Webpack 2"
 
 - It is a highly configurable and easy to use.
 - Reduces the network request by bundling all static assets into a single file.
-- <a href="https://github.com/webpack/docs/wiki/hot-module-replacement-with-webpack" target="_blank">Hot Reloading</a> helps us to forget about the good old `gulp` and `grunt` watchers (we won't be talking about this).
+- <a href="https://github.com/webpack/docs/wiki/hot-module-replacement-with-webpack" target="_blank">Hot Reloading</a> helps us to forget about the good old <b>gulp</b> and <b>grunt</b> watchers (we won't be talking about this).
 
 ## Steps
 
